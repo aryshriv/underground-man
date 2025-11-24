@@ -105,7 +105,7 @@ export default function Dostoevsky() {
     let interactableObjects: any[] = []; // Array to hold objects we want to hover over
 
     loader.load(
-      "./resources/underground-man-apartment6.glb",
+      "https://stava.io/resources/underground-man-apartment6.glb",
       function (gltf: GLTF) {
         setIsLoaded(true);
         gltf.scene.traverse((node) => {
