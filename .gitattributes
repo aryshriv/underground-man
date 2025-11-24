@@ -1,14 +1,4 @@
-public/resources/love.mp3 filter=lfs diff=lfs merge=lfs -text
 public/resources/nightsky.hdr filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep3.mp3 filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep4.mp3 filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep5.mp3 filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep6.mp3 filter=lfs diff=lfs merge=lfs -text
 public/resources/skyz1.jpg filter=lfs diff=lfs merge=lfs -text
 public/resources/skyz2.jpg filter=lfs diff=lfs merge=lfs -text
-public/resources/wind.mp3 filter=lfs diff=lfs merge=lfs -text
 public/resources/black.jpg filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep1.mp3 filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep2.mp3 filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep7.mp3 filter=lfs diff=lfs merge=lfs -text
-public/resources/footstep8.mp3 filter=lfs diff=lfs merge=lfs -text
