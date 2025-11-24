@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# large files (hosted externally)
+public/resources/underground-man-apartment6.glb
